@@ -9,4 +9,4 @@
 * [PDF](https://github.com/Sai-Adarsh/Operating-Systems-Resources/blob/master/commands/linuxcommands.pdf)
 * [PDF](https://github.com/Sai-Adarsh/Operating-Systems-Resources/blob/master/commands/LinuxCommandLineCheatSheet.pdf) (additional)
 
-Go through [comics](https://github.com/Sai-Adarsh/Operating-Systems-Resources/blob/master/comics/bite-size-linux.pdf) for understanding of Paging, Virtual Memory,Swapping, Thrashing.
+Go through [comics](https://github.com/Sai-Adarsh/Operating-Systems-Resources/blob/master/comics/bite-size-linux.pdf) for understanding of paging, virtual memory, swapping, and thrashing.
